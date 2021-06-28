@@ -1,0 +1,22 @@
+"products": [
+            {
+                "_id": "60d735b9b2773f1220d90c0d",
+                "quantity": "5",
+            }
+        ],
+
+==========================================================
+
+"products": [
+            {
+                 "_id": "60d735b9b2773f1220d90c0d",
+				 "name": "casio",
+		    	 "stock": "1000",
+			     "price": "100",
+		         "brand": "casio",
+        		 "category": "kids",
+		         "image": "rr.png"
+                "quantity": "5",
+            }
+        ],
+
